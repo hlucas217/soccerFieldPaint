@@ -1,0 +1,18 @@
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\bin\Debug\SoccerFieldPaintProblem.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\SoccerFieldPaintProblem\SoccerFieldPaintProblem\obj\Debug\SoccerFieldPaintProblem.csprojResolveAssemblyReference.cache
